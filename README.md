@@ -8,3 +8,4 @@ These are the Tech-talks done by me at Becode
 2. [Runbook](Runbook.pdf)
 3. [Ethical AI](ETHICAL-AI.pdf)
 4. [Orchestration & Orchestration Tools](ORCHESTRATION-TOOLS.pdf)
+5. [Software Testing](Testing.pdf)
