@@ -9,3 +9,4 @@ These are the Tech-talks done by me at Becode
 3. [Ethical AI](ETHICAL-AI.pdf)
 4. [Orchestration & Orchestration Tools](ORCHESTRATION-TOOLS.pdf)
 5. [Software Testing](Testing.pdf)
+6. [Ansible Tower](Ansible%20Tower.pdf)
